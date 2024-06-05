@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+# Some pointers to consider
+## used node version 20.10.0
+## used vite as a build tool for the react application
+## added a button called next trace that allows user to trace multiple outlines instead of 1
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
