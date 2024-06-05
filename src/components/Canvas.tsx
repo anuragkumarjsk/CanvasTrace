@@ -1,4 +1,4 @@
-import React,{useRef,useState,useEffect} from 'react'
+import {useRef,useState,useEffect} from 'react'
 
 const Canvas = ({ imageUrl,windowWidth, windowHeight }) => {
     const canvasRef = useRef(null);
